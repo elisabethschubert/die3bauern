@@ -1,0 +1,4 @@
+baseURL = "http://3_Bauern.org/"
+languageCode = "de-at"
+title = "Die 3 Bauern"
+theme = "3_Bauern-theme-introduction-master"
